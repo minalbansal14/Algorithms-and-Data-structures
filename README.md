@@ -1,5 +1,5 @@
 # Algorithms-and-Data-structures
-- Lists and Arrays 
+- Lists and Arrays
 - Sortation
 - Recursion 
 - Linked Lists
