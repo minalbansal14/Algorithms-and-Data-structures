@@ -7,4 +7,4 @@
 - Heaps
 - Graphs
 - Hash Tables
-- Dynamic Programming 
+- Dynamic Programming
